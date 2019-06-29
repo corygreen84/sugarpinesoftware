@@ -75,15 +75,6 @@ body, html {
   }
 
 
-  /*
-  @media only screen and (max-width: 990px) {
-    .mainContent{
-      text-align: center;
-      right:auto;
-      left:auto;
-    }
-  }
-  */
   .mainContent{
     padding-top:20%;
   }

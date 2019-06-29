@@ -45,17 +45,15 @@ body, html {
     text-align: right;
     right:7.75%;
   }
+  /*
   @media only screen and (max-width: 990px) {
       .telluric{
         text-align: center;
         right:auto;
         left:auto;
       }
-      #get-started-button{
-        right:auto;
-        left:auto;
-      }
     }
+    */
  
   .serviceImage{
     display: block;
@@ -74,6 +72,15 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+
+  @media only screen and (max-width: 990px) {
+    .mainContent{
+      text-align: center;
+      right:auto;
+      left:auto;
+    }
   }
   .mainContent{
     padding-top:20%;

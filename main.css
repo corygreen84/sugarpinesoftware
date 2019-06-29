@@ -53,6 +53,10 @@ body, html {
         left:auto;
       }
     }
+
+  #get-started-button{
+    right:auto;
+  }
     
  
   .serviceImage{
@@ -73,6 +77,8 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+
 
 
   .mainContent{

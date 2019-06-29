@@ -83,7 +83,7 @@ body, html {
     width:50%;
     float: right;
     padding-right: 10%;
-    min-width: 50%;
+    min-width: 200px;
   }
 
   #get-started-button{

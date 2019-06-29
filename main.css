@@ -77,7 +77,8 @@ body, html {
         left:auto;
       }
       .mainContent{
-        clear:right;
+        /*clear:right;*/
+        float:none;
         margin-right:auto;
         margin-left:auto;
       }

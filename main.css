@@ -94,12 +94,12 @@ body, html {
 
   @media only screen and (max-width: 990px) {
     .mainContent{
-      text-align: center;
+      /*text-align: center;*/
       right:auto;
       left:auto;
     }
     #get-started-button{
-      text-align: center;
+      /*text-align: center;*/
       right:auto;
       left:auto;
     }

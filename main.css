@@ -73,8 +73,8 @@ body, html {
       }
       #get-started-button{
         text-align: center;
-        margin-right:auto;
-        margin-left:auto;
+        right:auto;
+        left:auto;
       }
       .mainContent{
         float:none;

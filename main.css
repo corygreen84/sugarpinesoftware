@@ -91,6 +91,14 @@ body, html {
     float: right;
     margin-right: 10%;
   }
+
+  @media only screen and (max-width: 990px) {
+    .mainContent{
+      text-align: center;
+      right:auto;
+      left:auto;
+    }
+  }
     
 
   .rectangle{

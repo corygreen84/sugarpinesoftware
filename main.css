@@ -54,6 +54,10 @@ body, html {
     min-width: 378px;
   }
 
+  .button-container{
+    width:100%;
+  }
+
   #get-started-button{
     /*display: block;*/
     float: right;

@@ -55,7 +55,7 @@ body, html {
   }
 
   #get-started-button{
-    display: block;
+    /*display: block;*/
     float: right;
     margin-right: 10%;
   }
@@ -69,8 +69,8 @@ body, html {
       #get-started-button{
         text-align: center;
         float: none;
-        right:auto;
-        left:auto;
+        margin-right:auto;
+        margin-left:auto;
       }
       .mainContent{
         float:none;

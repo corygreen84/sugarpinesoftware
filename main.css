@@ -72,9 +72,11 @@ body, html {
         left:auto;
       }
       #get-started-button{
-        text-align: center;
+        /*text-align: center;
         right:auto;
         left:auto;
+        */
+        margin: auto;
       }
       .mainContent{
         float:none;

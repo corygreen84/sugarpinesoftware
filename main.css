@@ -75,6 +75,7 @@ body, html {
   }
 
 
+  /*
   @media only screen and (max-width: 990px) {
     .mainContent{
       text-align: center;
@@ -82,6 +83,7 @@ body, html {
       left:auto;
     }
   }
+  */
   .mainContent{
     padding-top:20%;
   }

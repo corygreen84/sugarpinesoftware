@@ -86,7 +86,8 @@ body, html {
   }
 
   #get-started-button{
-    display: inline-block;
+    display: block;
+    float: right;
   }
     
 

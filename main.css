@@ -68,19 +68,15 @@ body, html {
       }
       #get-started-button{
         text-align: center;
-        clear: right;
-        /*
-        margin-right:auto;
-        margin-left:auto;
-        */
         right:auto;
         left:auto;
       }
       .mainContent{
-        /*clear:right;*/
         float:none;
         margin-right:auto;
         margin-left:auto;
+        margin-top: 0px;
+        padding-top: 25%;
       }
     }
 

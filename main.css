@@ -60,7 +60,6 @@ body, html {
   }
 
   #get-started-button{
-    /*display: block;*/
     float: right;
     margin-right: 10%;
   }
@@ -72,11 +71,8 @@ body, html {
         left:auto;
       }
       #get-started-button{
-        /*text-align: center;
-        right:auto;
-        left:auto;
-        */
-        margin: auto;
+        width:100%;
+        margin-right: 0px;
       }
       .mainContent{
         float:none;

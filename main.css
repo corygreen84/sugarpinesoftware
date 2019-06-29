@@ -45,6 +45,20 @@ body, html {
     text-align: right;
     right:7.75%;
   }
+
+  .mainContent{
+    margin-top:20%;
+    width:50%;
+    float: right;
+    margin-right: 10%;
+    min-width: 378px;
+  }
+
+  #get-started-button{
+    display: block;
+    float: right;
+    margin-right: 10%;
+  }
   
   @media only screen and (max-width: 990px) {
       .telluric{
@@ -56,6 +70,13 @@ body, html {
         text-align: center;
         right:auto;
         left:auto;
+      }
+      .mainContent{
+        /*text-align: center;*/
+        /*right:auto;
+        left:auto;*/
+        margin-right:auto;
+        margin-left:auto;
       }
     }
 
@@ -80,32 +101,6 @@ body, html {
     background-size: cover;
   }
 
-
-
-
-  .mainContent{
-    margin-top:20%;
-    width:50%;
-    float: right;
-    margin-right: 10%;
-    min-width: 378px;
-  }
-
-  #get-started-button{
-    display: block;
-    float: right;
-    margin-right: 10%;
-  }
-
-  @media only screen and (max-width: 990px) {
-    .mainContent{
-      /*text-align: center;*/
-      /*right:auto;
-      left:auto;*/
-      margin-right:auto;
-      margin-left:auto;
-    }
-  }
     
 
   .rectangle{

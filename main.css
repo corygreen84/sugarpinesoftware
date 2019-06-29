@@ -97,7 +97,8 @@ body, html {
       /*text-align: center;*/
       /*right:auto;
       left:auto;*/
-      margin:auto;
+      margin-right:auto;
+      margin-left:auto;
     }
     #get-started-button{
       /*text-align: center;*/

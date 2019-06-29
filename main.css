@@ -68,13 +68,12 @@ body, html {
       }
       #get-started-button{
         text-align: center;
+        float: none;
         right:auto;
         left:auto;
       }
       .mainContent{
-        /*text-align: center;*/
-        /*right:auto;
-        left:auto;*/
+        float:none;
         margin-right:auto;
         margin-left:auto;
       }

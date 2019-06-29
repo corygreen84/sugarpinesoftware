@@ -102,8 +102,9 @@ body, html {
     }
     #get-started-button{
       /*text-align: center;*/
-      right:auto;
-      left:auto;
+      /*right:auto;
+      left:auto;*/
+      margin: auto;
     }
   }
     
